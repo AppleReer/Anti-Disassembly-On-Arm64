@@ -260,3 +260,5 @@ static __attribute__((always_inline)) void RET_2_SELF() {
 # 最后
 
 谢谢收看。点个赞/star。
+
+上述代码仅为基本型的Demo演示。可以灵活组合使用。切勿直接复制粘贴在生产环境使用。寄存器污染了，程序崩溃了，是会被开除的！
